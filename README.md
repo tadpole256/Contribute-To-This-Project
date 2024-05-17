@@ -52,7 +52,7 @@ This is a tutorial to help first-time contributors to participate in a simple an
 ### Objectives
 
 - Make a contribution to an open source project.
-- Get more comfortable in using GitHub.
+- Get more comfortable using GitHub.
 
 ### Who is this for?
 
